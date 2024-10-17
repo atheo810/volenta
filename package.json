@@ -1,0 +1,22 @@
+{
+  "name": "volenta",
+  "version": "1.0.0",
+  "description": "Open Source Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atheo810/volenta.git"
+  },
+  "keywords": [
+    "Open Source Library"
+  ],
+  "author": "atheo810",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atheo810/volenta/issues"
+  },
+  "homepage": "https://github.com/atheo810/volenta#readme"
+}
